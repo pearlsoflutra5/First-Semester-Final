@@ -18,7 +18,31 @@ if(list.equalsIgnoreCase("The Old Man and the Sea") ){
 	}  
   
 ```
-This exerpt is a piece of code if you have chosen to do english, vocab, The Old Man and the Sea, and no (for random). It will read the array that has all of the data for the vocab list The Old Man and the Sea and apply it to the String array book. It will then pass book, as well as a key word for the question, as parameters for the method knowSecondColumn which will then give the questions and check to see if it is correct. It will then give you an answer of how many was correct out of the total list and will then output the statement what next before calling subTopicEnglish which will then act as if you typed english in the beginning. 
+``` 
+Type your pick (history, chemistry, math, english): english
+Great!
+
+pick from this list: 
+	vocab
+vocab
+
+Pick if you want to do words or definitions: 
+words
+What book do you want to choose vocab from: 
+	The Old Man and the Sea
+	To Kill a Mockingbird
+	The Outsiders
+the old man and the sea
+Do you want to do random: no
+What is the word for a small boat propelled by oars, sails, or a motor: skiff
+Correct!
+What is the word for a spear with a barbed point for catching large fish: harpoon
+Correct!
+What is the word for the process of wearing or grinding something down: erosion
+Correct!
+What is the word for a lack of arrogance or false pride: 
+```
+This exerpt is a piece of code if you have chosen to do english, vocab, The Old Man and the Sea, and no (for random). It will read the array that has all of the data for the vocab list The Old Man and the Sea and apply it to the String array book. It will then pass book, as well as a key word for the question, as parameters for the method knowSecondColumn which will then give the questions and check to see if it is correct. It will then give you an answer of how many was correct out of the total list and will then output the statement what next before calling subTopicEnglish which will then act as if you typed english in the beginning. Calling the subTopicEnglish method again will allow you to repeat multiple times and navigate to other places from there. 
 
 ## Installation
 This program is very easy to access I have added a the direct code to reach really quickly with the name of FinalCode.java. with the cloning of this project, there should not have to be any other installations.  
