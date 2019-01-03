@@ -49,7 +49,7 @@ This exerpt is a piece of code if you have chosen to do english, vocab, words, T
 This program is very easy to access I have added a the direct code to reach really quickly with the name of FinalCode.java. with the cloning of this project, there should not have to be any other installations.  
 
 ## Motivation
-I have taken several classes and I needed more focused practice. I needed to practice specific questions with specific answers that the teacher required. I decided to create my own practice. I also know that I wanted to
+I have taken several classes and I needed more focused practice. I needed to practice specific questions with specific answers that the teacher required. I decided to create my own practice. I also know that I wanted to create a way to variate the questions so I would actually be able to get better at the material I needed to know.
 
 ## Contributors
 I want this code to be available to everyone who wants to adapt it for their own purposes as long as the original code stays the same. 
