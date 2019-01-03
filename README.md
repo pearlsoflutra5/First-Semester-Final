@@ -18,6 +18,7 @@ if(list.equalsIgnoreCase("The Old Man and the Sea") ){
 	}  
   
 ```
+This is what the code looks like when it is run:
 ``` 
 Type your pick (history, chemistry, math, english): english
 Great!
